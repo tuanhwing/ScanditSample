@@ -1,0 +1,4 @@
+com/scandit/barcodecapturesimplesample/BuildConfig.java
+ com.scandit.barcodecapturesimplesample.BuildConfig
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant

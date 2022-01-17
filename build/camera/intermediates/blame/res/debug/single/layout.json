@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/TuanHwing/Downloads/datacapture-flutter-samples-master/BarcodeCaptureSimpleSample/build/camera/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/TuanHwing/.gradle/caches/transforms-2/files-2.1/21e30663864f95e0269204af0df30c27/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/TuanHwing/Downloads/datacapture-flutter-samples-master/BarcodeCaptureSimpleSample/build/camera/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/Users/TuanHwing/.gradle/caches/transforms-2/files-2.1/21e30663864f95e0269204af0df30c27/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/TuanHwing/Downloads/datacapture-flutter-samples-master/BarcodeCaptureSimpleSample/build/camera/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/TuanHwing/.gradle/caches/transforms-2/files-2.1/21e30663864f95e0269204af0df30c27/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]
