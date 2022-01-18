@@ -1,2 +1,0 @@
-com/scandit/datacapture/flutter/core/BuildConfig.java
- com.scandit.datacapture.flutter.core.BuildConfig

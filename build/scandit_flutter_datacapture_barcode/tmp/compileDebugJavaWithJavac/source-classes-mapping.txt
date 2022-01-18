@@ -1,2 +1,0 @@
-com/scandit/datacapture/flutter/barcode/BuildConfig.java
- com.scandit.datacapture.flutter.barcode.BuildConfig
