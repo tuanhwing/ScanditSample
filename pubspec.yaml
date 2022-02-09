@@ -17,6 +17,10 @@ dependencies:
   flutter_platform_widgets: ^1.1.0
   cupertino_icons: ^1.0.2
   camera: ^0.9.4+5
+  firebase_core: 1.10.0
+  firebase_crashlytics: 2.1.1
+  firebase_messaging: 11.1.0
+
 
 dev_dependencies:
   flutter_test:
